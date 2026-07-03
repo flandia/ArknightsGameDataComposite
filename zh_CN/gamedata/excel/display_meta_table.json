@@ -1309,6 +1309,182 @@
         ]
       },
       {
+        "avatarId": "avatar_special_84",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 76,
+        "avatarIdDesc": "购买礼包获得\\n“坚忍玛恩纳”",
+        "avatarItemName": "“坚忍玛恩纳”",
+        "avatarItemDesc": "坚忍玛恩纳。他默默背负了所有，工作的重担、所行之事的后果、临光家。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "dynAvatarId": null,
+        "avatarDesc": "购买礼包获得",
+        "isSecret": true,
+        "avatarStartTs": 1783065600,
+        "avatarLimit": true,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_84",
+            "descShowTs": 1783065600,
+            "descHideTs": 1784836799
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_85",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 77,
+        "avatarIdDesc": "购买礼包获得\\n“灼灼临光”",
+        "avatarItemName": "“灼灼临光”",
+        "avatarItemDesc": "灼灼临光。她一直坚守着她的正义，她正是骑士精神的化身。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "dynAvatarId": null,
+        "avatarDesc": "购买礼包获得",
+        "isSecret": true,
+        "avatarStartTs": 1783065600,
+        "avatarLimit": true,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_85",
+            "descShowTs": 1783065600,
+            "descHideTs": 1784836799
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_86",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 78,
+        "avatarIdDesc": "购买礼包获得\\n“瑕光点点”",
+        "avatarItemName": "“瑕光点点”",
+        "avatarItemDesc": "瑕光点点。天真开朗的她向来都是临光家快乐的源泉。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "dynAvatarId": null,
+        "avatarDesc": "购买礼包获得",
+        "isSecret": true,
+        "avatarStartTs": 1783065600,
+        "avatarLimit": true,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_86",
+            "descShowTs": 1783065600,
+            "descHideTs": 1784836799
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_87",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 79,
+        "avatarIdDesc": "购买礼包获得\\n“鞭刃佐菲娅”",
+        "avatarItemName": "“鞭刃佐菲娅”",
+        "avatarItemDesc": "鞭刃佐菲娅。临光家优雅又温柔的教官。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "dynAvatarId": null,
+        "avatarDesc": "购买礼包获得",
+        "isSecret": true,
+        "avatarStartTs": 1783065600,
+        "avatarLimit": true,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_87",
+            "descShowTs": 1783065600,
+            "descHideTs": 1784836799
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_88",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 80,
+        "avatarIdDesc": "购买礼包获得\\n“赤沙娜仁图亚”",
+        "avatarItemName": "“赤沙娜仁图亚”",
+        "avatarItemDesc": "赤沙娜仁图亚。要么你从她要走的路上让开，要么她帮你让开。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "dynAvatarId": null,
+        "avatarDesc": "购买礼包获得",
+        "isSecret": true,
+        "avatarStartTs": 1783065600,
+        "avatarLimit": true,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_88",
+            "descShowTs": 1783065600,
+            "descHideTs": 1784836799
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_89",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 81,
+        "avatarIdDesc": "购买礼包获得\\n“不言弃的格拉尼”",
+        "avatarItemName": "“不言弃的格拉尼”",
+        "avatarItemDesc": "不言弃的格拉尼。守护着城市和平的骑警，不惧艰险，笑脸和勇气就是她最好的武器。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "dynAvatarId": null,
+        "avatarDesc": "购买礼包获得",
+        "isSecret": true,
+        "avatarStartTs": 1783065600,
+        "avatarLimit": true,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_89",
+            "descShowTs": 1783065600,
+            "descHideTs": 1784836799
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_90",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 82,
+        "avatarIdDesc": "购买礼包获得\\n“林间流星”",
+        "avatarItemName": "“林间流星”",
+        "avatarItemDesc": "林间流星。山间林中，时刻提防外来威胁、尽职尽责的守护者。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "dynAvatarId": null,
+        "avatarDesc": "购买礼包获得",
+        "isSecret": true,
+        "avatarStartTs": 1783065600,
+        "avatarLimit": true,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_90",
+            "descShowTs": 1783065600,
+            "descHideTs": 1784836799
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_91",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 83,
+        "avatarIdDesc": "购买礼包获得\\n“空中大爆破”",
+        "avatarItemName": "“空中大爆破”",
+        "avatarItemDesc": "空中大爆破。她来了！砰！砰！乓！",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "dynAvatarId": null,
+        "avatarDesc": "购买礼包获得",
+        "isSecret": true,
+        "avatarStartTs": 1783065600,
+        "avatarLimit": true,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_91",
+            "descShowTs": 1783065600,
+            "descHideTs": 1784836799
+          }
+        ]
+      },
+      {
         "avatarId": "avatar_activity_OF",
         "avatarType": "ACTIVITY",
         "avatarIdSort": 1,
@@ -2577,6 +2753,10 @@
       {
         "avatarId": "avatar_activity_RE",
         "avatarType": "ACTIVITY",
+        "avatarDesc": "Rhodes Island Epic 黑色博士坠落活动",
+        "isSecret": false,
+        "avatarStartTs": 1775016000,
+        "avatarLimit": true,
         "avatarIdSort": 79,
         "avatarIdDesc": "Rhodes Island Epic 黑色博士坠落活动\\n“博士士”",
         "avatarItemName": "“博士士”",
@@ -2584,10 +2764,6 @@
         "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
         "obtainApproach": "在Rhodes Island Epic 黑色博士坠落活动中获得",
         "dynAvatarId": null,
-        "avatarDesc": "Rhodes Island Epic 黑色博士坠落活动",
-        "isSecret": false,
-        "avatarStartTs": 1775016000,
-        "avatarLimit": true,
         "limitDatas": [
           {
             "avatarId": "avatar_activity_RE",
@@ -2599,6 +2775,10 @@
       {
         "avatarId": "avatar_activity_BB",
         "avatarType": "ACTIVITY",
+        "avatarDesc": "【巴别塔】记录修复",
+        "isSecret": false,
+        "avatarStartTs": 1776715200,
+        "avatarLimit": false,
         "avatarIdSort": 80,
         "avatarIdDesc": "【巴别塔】记录修复\\n“巴别塔”",
         "avatarItemName": "“巴别塔”",
@@ -2606,15 +2786,15 @@
         "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
         "obtainApproach": "记录修复获得",
         "dynAvatarId": null,
-        "avatarDesc": "【巴别塔】记录修复",
-        "isSecret": false,
-        "avatarStartTs": 1776715200,
-        "avatarLimit": false,
         "limitDatas": null
       },
       {
         "avatarId": "avatar_activity_ED3",
         "avatarType": "ACTIVITY",
+        "avatarDesc": "【争锋频道：绿藤城】绿藤奖励",
+        "isSecret": true,
+        "avatarStartTs": 1777123800,
+        "avatarLimit": true,
         "avatarIdSort": 81,
         "avatarIdDesc": "【争锋频道：绿藤城】绿藤奖励\\n“全投！”",
         "avatarItemName": "“全投！”",
@@ -2622,10 +2802,6 @@
         "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
         "obtainApproach": "在争锋频道：绿藤城活动中获得",
         "dynAvatarId": null,
-        "avatarDesc": "【争锋频道：绿藤城】绿藤奖励",
-        "isSecret": true,
-        "avatarStartTs": 1777123800,
-        "avatarLimit": true,
         "limitDatas": [
           {
             "avatarId": "avatar_activity_ED3",
@@ -2637,6 +2813,10 @@
       {
         "avatarId": "avatar_activity_XB2_1",
         "avatarType": "ACTIVITY",
+        "avatarDesc": "【重启锚点】罗德岛采购平台",
+        "isSecret": false,
+        "avatarStartTs": 1778832000,
+        "avatarLimit": false,
         "avatarIdSort": 82,
         "avatarIdDesc": "【重启锚点】罗德岛采购平台\\n“不变生息”",
         "avatarItemName": "“不变生息”",
@@ -2644,15 +2824,15 @@
         "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
         "obtainApproach": "在生息演算模式中获得",
         "dynAvatarId": null,
-        "avatarDesc": "【重启锚点】罗德岛采购平台",
-        "isSecret": false,
-        "avatarStartTs": 1778832000,
-        "avatarLimit": false,
         "limitDatas": null
       },
       {
         "avatarId": "avatar_special_75",
         "avatarType": "ACTIVITY",
+        "avatarDesc": "狩猎时光限时签到活动",
+        "isSecret": true,
+        "avatarStartTs": 1780268400,
+        "avatarLimit": true,
         "avatarIdSort": 83,
         "avatarIdDesc": "狩猎时光限时签到活动\\n“猎手烤肉”",
         "avatarItemName": "“猎手烤肉”",
@@ -2660,10 +2840,6 @@
         "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
         "obtainApproach": "签到活动获得",
         "dynAvatarId": null,
-        "avatarDesc": "狩猎时光限时签到活动",
-        "isSecret": true,
-        "avatarStartTs": 1780268400,
-        "avatarLimit": true,
         "limitDatas": [
           {
             "avatarId": "avatar_special_75",
@@ -2675,6 +2851,10 @@
       {
         "avatarId": "avatar_activity_BP",
         "avatarType": "ACTIVITY",
+        "avatarDesc": "【生路】记录修复",
+        "isSecret": false,
+        "avatarStartTs": 1782417600,
+        "avatarLimit": false,
         "avatarIdSort": 84,
         "avatarIdDesc": "【生路】记录修复\\n“生路”",
         "avatarItemName": "“生路”",
@@ -2682,15 +2862,15 @@
         "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
         "obtainApproach": "记录修复获得",
         "dynAvatarId": null,
-        "avatarDesc": "【生路】记录修复",
-        "isSecret": false,
-        "avatarStartTs": 1782417600,
-        "avatarLimit": false,
         "limitDatas": null
       },
       {
         "avatarId": "avatar_dyn_01",
         "avatarType": "DYNAMIC",
+        "avatarDesc": "【累计签到】奖励",
+        "isSecret": false,
+        "avatarStartTs": -1,
+        "avatarLimit": false,
         "avatarIdSort": 1,
         "avatarIdDesc": "【累计签到】奖励\\n“组织”",
         "avatarItemName": "“组织”",
@@ -2698,15 +2878,15 @@
         "avatarItemUsage": "用来彰显个性的动态头像。",
         "obtainApproach": "累计签到获得",
         "dynAvatarId": "assets_avatar_dyn_01",
-        "avatarDesc": "【累计签到】奖励",
-        "isSecret": false,
-        "avatarStartTs": -1,
-        "avatarLimit": false,
         "limitDatas": null
       },
       {
         "avatarId": "avatar_dyn_02",
         "avatarType": "DYNAMIC",
+        "avatarDesc": "【累计签到】奖励",
+        "isSecret": false,
+        "avatarStartTs": -1,
+        "avatarLimit": false,
         "avatarIdSort": 2,
         "avatarIdDesc": "【累计签到】奖励\\n“情感”",
         "avatarItemName": "“情感”",
@@ -2714,10 +2894,6 @@
         "avatarItemUsage": "用来彰显个性的动态头像。",
         "obtainApproach": "累计签到获得",
         "dynAvatarId": "assets_avatar_dyn_02",
-        "avatarDesc": "【累计签到】奖励",
-        "isSecret": false,
-        "avatarStartTs": -1,
-        "avatarLimit": false,
         "limitDatas": null
       },
       {
@@ -3238,7 +3414,14 @@
           "avatar_special_83",
           "avatar_special_74",
           "avatar_special_92",
-          "avatar_special_75"
+          "avatar_special_84",
+          "avatar_special_85",
+          "avatar_special_86",
+          "avatar_special_87",
+          "avatar_special_88",
+          "avatar_special_89",
+          "avatar_special_90",
+          "avatar_special_91"
         ],
         "sortId": 3
       },
@@ -4012,6 +4195,30 @@
           "[采购中心]中购买结营出猎组合包获得"
         ],
         "multiPicId": null
+      },
+      {
+        "bgId": "bg_little_pony_1",
+        "bgType": "BASE",
+        "bgSortId": 31,
+        "bgStartTime": 1783065600,
+        "isSecret": true,
+        "bgName": "金橡树图书馆",
+        "bgDes": "永远的小马镇，永远的家。",
+        "bgUsage": "一张照片，一段回忆，凝聚了泰拉大地的某个瞬间。",
+        "isMultiForm": false,
+        "changeRule": "NONE",
+        "multiFormList": [
+          {
+            "multiFormBgId": "bg_little_pony_1",
+            "sortId": 0,
+            "bgMusicId": "music_bg_little_pony"
+          }
+        ],
+        "obtainApproach": "礼包购买",
+        "unlockDesList": [
+          "[采购中心]中购买真挚友谊组合包获得"
+        ],
+        "multiPicId": null
       }
     ],
     "defaultBgMusicId": "music_bg_default",
@@ -4673,6 +4880,18 @@
             "displayAfterEndTime": false
           }
         ]
+      },
+      "bg_little_pony_1": {
+        "bgId": "bg_little_pony_1",
+        "limitInfos": [
+          {
+            "limitInfoId": "bg_little_pony_1#1",
+            "startTime": 1783065600,
+            "endTime": 1784836799,
+            "invalidObtainDesc": "暂无获取途径",
+            "displayAfterEndTime": false
+          }
+        ]
       }
     },
     "multiFormInfoData": [
@@ -4902,6 +5121,11 @@
             "id": "bg_hunter_1",
             "groupType": "BASE",
             "sortId": 30
+          },
+          {
+            "id": "bg_little_pony_1",
+            "groupType": "BASE",
+            "sortId": 31
           }
         ]
       }
@@ -6233,6 +6457,43 @@
             "availEndTime": 1782676799
           }
         }
+      },
+      "nc_littlepony_1": {
+        "id": "nc_littlepony_1",
+        "name": "合照",
+        "type": "SPECIAL",
+        "isSecret": true,
+        "sortId": 32,
+        "isSpTheme": true,
+        "defaultShowDetail": false,
+        "themeName": "合照",
+        "themeEnName": "Besties Photo",
+        "skinStartTime": 1783065600,
+        "skinDesc": "将这一刻拍下来制成贴纸，一起装点朋友手账的第一页吧。三、二、一，茄——子！",
+        "usageDesc": "在不变动功能的情况下，对prts进行了重新设计。",
+        "skinApproach": "真挚友谊组合包",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "在[采购中心]中购买真挚友谊组合包获得"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": "TIER_6",
+        "skinTmplCnt": 3,
+        "canChangeTmpl": true,
+        "isTimeLimit": true,
+        "timeLimitInfoList": {
+          "nc_littlepony_1": {
+            "limitId": "nc_littlepony_1",
+            "id": "nc_littlepony_1",
+            "availStartTime": 1783065600,
+            "availEndTime": 1784836799
+          }
+        }
       }
     },
     "consts": {
@@ -6336,6 +6597,11 @@
             "id": "nc_mh_1",
             "groupType": "SPECIAL",
             "sortId": 31
+          },
+          {
+            "id": "nc_littlepony_1",
+            "groupType": "SPECIAL",
+            "sortId": 32
           }
         ]
       },
