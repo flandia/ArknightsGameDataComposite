@@ -1057,7 +1057,9 @@
     "lv.sand2desc": "<color=#a0a001>{0}</color>",
     "lv.pycitem": "<color=#D14631>{0}</color>",
     "lv.pyctx": "<color=#1B1B1B>{0}</color>",
-    "lv.pycfs": "<color=#D14631>{0}</color>"
+    "lv.pycfs": "<color=#D14631>{0}</color>",
+    "ro6.get": "<color=#38d0d4>{0}</color>",
+    "ro6.lose": "<color=#d13464>{0}</color>"
   },
   "charAssistRefreshTime": [
     {
@@ -1431,7 +1433,7 @@
     "ba.dt.element": {
       "termId": "ba.dt.element",
       "termName": "元素损伤",
-      "description": "包括<$ba.dt.neural>神经损伤</>、<$ba.dt.erosion>侵蚀损伤</>、<$ba.dt.burning>灼燃损伤</>、<$ba.dt.apoptosis>凋亡损伤</>"
+      "description": "包括<$ba.dt.neural>神经损伤</>、<$ba.dt.erosion>侵蚀损伤</>、<$ba.dt.burning>灼燃损伤</>、<$ba.dt.apoptosis>凋亡损伤</>、<$ba.dt.rampage>狂躁损伤</>"
     },
     "cc.g.psk": {
       "termId": "cc.g.psk",
@@ -1441,7 +1443,7 @@
     "cc.tag.op": {
       "termId": "cc.tag.op",
       "termName": "作业平台",
-      "description": "包含以下干员\r\nLancet-2、Castle-3、THRM-EX、正义骑士号、Friston-3、PhonoR-0、CONFESS-47、GALLUS²"
+      "description": "包含以下干员\nLancet-2、Castle-3、THRM-EX、正义骑士号、Friston-3、PhonoR-0、CONFESS-47、GALLUS²"
     },
     "cc.tag.knight": {
       "termId": "cc.tag.knight",
@@ -1811,7 +1813,7 @@
     "cc.g.elite": {
       "termId": "cc.g.elite",
       "termName": "精英干员",
-      "description": "包含以下干员\n迷迭香、煌、逻各斯、烛煌、电弧、真言"
+      "description": "包含以下干员\n迷迭香、煌、逻各斯、烛煌、电弧、真言、机械师"
     },
     "ba.permanentatk": {
       "termId": "ba.permanentatk",
@@ -1907,14 +1909,19 @@
       "termId": "cc.tag.mh2",
       "termName": "泡影国狩猎小队",
       "description": "包含以下干员\n焰狐龙梓兰、雷狼龙S空爆、罗德岛隐秘队"
+    },
+    "ba.triggereffect": {
+      "termId": "ba.triggereffect",
+      "termName": "触发型效果",
+      "description": "施加于敌方/友方单位的一次性减益/增益效果，该效果仅在满足特定条件时触发"
     }
   },
   "charmEquipCount": 5,
   "storyReviewUnlockItemLackTip": "事相碎片数量不足，请前往采购凭证区或活动期间商店获取",
   "isVoiceLangSettingEnabled": true,
   "isRoguelikeTopicFuncEnabled": true,
-  "dataVersion": "74.8.0",
-  "resPrefVersion": "74d0d0",
+  "dataVersion": "75.0.0",
+  "resPrefVersion": "75d0d0",
   "easyCrystalBonus": 0,
   "mainlineCompatibleDesc": "PRTS检测到该关卡对应更低作战环境未获得三星评价，将自动开启<color=#fe6435>环境难度兼容</color>；\n环境难度兼容状态下挑战该关卡将<color=#fe6435>同时消耗</color>该环境与更低环境的理智，通关后则<color=#fe6435>会同步作战进度，并同时获得</color>该环境与更低环境的报酬奖励",
   "mainlineToughDesc": "更有挑战的游玩体验环境\n三星首通奖励含有至纯源石\n会包含额外的高难关卡",
@@ -2004,7 +2011,8 @@
     "counsellor": "PHYSICAL",
     "mercenary": "PHYSICAL",
     "skybreaker": "PHYSICAL",
-    "watchman": "HEAL"
+    "watchman": "HEAL",
+    "supportiveranger": "PHYSICAL"
   },
   "defaultMinContinuousBattleTimes": 1,
   "defaultMaxContinuousBattleTimes": 6,
