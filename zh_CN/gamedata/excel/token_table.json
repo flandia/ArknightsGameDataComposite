@@ -44,7 +44,8 @@
               "disarmedCombatImmune": false,
               "fearedImmune": false,
               "palsyImmune": false,
-              "attractImmune": false
+              "attractImmune": false,
+              "teleportImmune": false
             }
           },
           {
@@ -76,7 +77,8 @@
               "disarmedCombatImmune": false,
               "fearedImmune": false,
               "palsyImmune": false,
-              "attractImmune": false
+              "attractImmune": false,
+              "teleportImmune": false
             }
           }
         ],
@@ -161,7 +163,8 @@
               "disarmedCombatImmune": false,
               "fearedImmune": false,
               "palsyImmune": false,
-              "attractImmune": false
+              "attractImmune": false,
+              "teleportImmune": false
             }
           },
           {
@@ -192,7 +195,8 @@
               "disarmedCombatImmune": false,
               "fearedImmune": false,
               "palsyImmune": false,
-              "attractImmune": false
+              "attractImmune": false,
+              "teleportImmune": false
             }
           }
         ],
@@ -297,7 +301,8 @@
               "disarmedCombatImmune": false,
               "fearedImmune": false,
               "palsyImmune": false,
-              "attractImmune": false
+              "attractImmune": false,
+              "teleportImmune": false
             }
           },
           {
@@ -329,7 +334,8 @@
               "disarmedCombatImmune": false,
               "fearedImmune": false,
               "palsyImmune": false,
-              "attractImmune": false
+              "attractImmune": false,
+              "teleportImmune": false
             }
           }
         ],
@@ -415,7 +421,8 @@
               "disarmedCombatImmune": false,
               "fearedImmune": false,
               "palsyImmune": false,
-              "attractImmune": false
+              "attractImmune": false,
+              "teleportImmune": false
             }
           },
           {
@@ -447,7 +454,8 @@
               "disarmedCombatImmune": false,
               "fearedImmune": false,
               "palsyImmune": false,
-              "attractImmune": false
+              "attractImmune": false,
+              "teleportImmune": false
             }
           }
         ],
