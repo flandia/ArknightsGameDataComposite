@@ -495,7 +495,8 @@
       "char_2013_cerber"
     ],
     "char_291_aglina": [
-      "char_291_aglina"
+      "char_291_aglina",
+      "char_1015_aglna2"
     ],
     "char_358_lisa": [
       "char_358_lisa"
@@ -1275,6 +1276,15 @@
     ],
     "char_4230_mcnist": [
       "char_4230_mcnist"
+    ],
+    "char_4237_jcinta": [
+      "char_4237_jcinta"
+    ],
+    "char_4236_tmslot": [
+      "char_4236_tmslot"
+    ],
+    "char_4235_thumpy": [
+      "char_4235_thumpy"
     ]
   },
   "spCharMissions": {

@@ -877,7 +877,7 @@
   "hpMax": 6000,
   "reMax": 100,
   "diamondToShdRate": 180,
-  "baseMaxFriendNum": 90,
+  "baseMaxFriendNum": 115,
   "hardDiamondDrop": 1,
   "instFinDmdShdCost": 80,
   "diamondMaterialToShardExchangeRatio": 10,
@@ -1059,7 +1059,8 @@
     "lv.pyctx": "<color=#1B1B1B>{0}</color>",
     "lv.pycfs": "<color=#D14631>{0}</color>",
     "ro6.get": "<color=#38d0d4>{0}</color>",
-    "ro6.lose": "<color=#d13464>{0}</color>"
+    "ro6.lose": "<color=#d13464>{0}</color>",
+    "arkodcact53side.lv": "<color=#2FA29B>{0}</color>"
   },
   "charAssistRefreshTime": [
     {
@@ -1148,7 +1149,7 @@
   "monthlySubWarningTime": 345600,
   "UnlimitSkinOutOfTime": 1209600,
   "replicateShopStartTime": 1597132800,
-  "recruitPoolVersion": 22,
+  "recruitPoolVersion": 23,
   "TSO": 1608192000,
   "requestSameFriendCD": 14400,
   "isDynIllustEnabled": true,
@@ -1919,14 +1920,24 @@
       "termId": "ba.dt.rampage",
       "termName": "狂躁损伤",
       "description": "狂躁损伤累计至1000时，15秒内攻击速度+50，但每秒受到100点真实伤害（每次攻击时提升50，最多600）"
+    },
+    "ba.groundbind": {
+      "termId": "ba.groundbind",
+      "termName": "缚地",
+      "description": "目标变为地面单位，无法移动；使部分近地悬浮敌人掉落；对重量大于3的单位持续时间减半"
+    },
+    "ba.airprotect": {
+      "termId": "ba.airprotect",
+      "termName": "对空庇护",
+      "description": "受到来自空中的物理和法术伤害降低相应比例（同名效果取最高）"
     }
   },
   "charmEquipCount": 5,
   "storyReviewUnlockItemLackTip": "事相碎片数量不足，请前往采购凭证区或活动期间商店获取",
   "isVoiceLangSettingEnabled": true,
   "isRoguelikeTopicFuncEnabled": true,
-  "dataVersion": "75.2.0",
-  "resPrefVersion": "75d2d0",
+  "dataVersion": "76.0.0",
+  "resPrefVersion": "76d0d0",
   "easyCrystalBonus": 0,
   "mainlineCompatibleDesc": "PRTS检测到该关卡对应更低作战环境未获得三星评价，将自动开启<color=#fe6435>环境难度兼容</color>；\n环境难度兼容状态下挑战该关卡将<color=#fe6435>同时消耗</color>该环境与更低环境的理智，通关后则<color=#fe6435>会同步作战进度，并同时获得</color>该环境与更低环境的报酬奖励",
   "mainlineToughDesc": "更有挑战的游玩体验环境\n三星首通奖励含有至纯源石\n会包含额外的高难关卡",
@@ -2053,7 +2064,7 @@
   "manufactPromptTime": 3,
   "mainGuideActivedStageId": "main_15-02",
   "defaultMinMultipleBattleTimes": 1,
-  "defaultMaxMultipleBattleTimes": 6,
+  "defaultMaxMultipleBattleTimes": 10,
   "multipleActionOpen": true,
   "isSoCharEnabled": true,
   "isRecalRuneFuncEnabled": true,
