@@ -43660,6 +43660,288 @@
       "templateParam": null
     },
     {
+      "tagId": "tag_1161",
+      "displayType": "block_1_4",
+      "tagName": "定向甄选寻访组合",
+      "itemTag": "DEADLINE",
+      "orderNum": 2101,
+      "startDatetime": 1790668800,
+      "endDatetime": 1792439999,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag1161_a",
+              "slotIndex": 0,
+              "cmd": "GIFTPACKAGE",
+              "param1": "GP_Once_491",
+              "param2": null,
+              "skinId": ""
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_1161",
+        "text": "这些是采购部特意为博士准备的组合包！快收下吧！虽然说是采购部的组合包，但这也是要动用预算经费的。"
+      },
+      "templateType": "NORGIFT",
+      "templateParam": {
+        "normalGiftParam": {
+          "showStartTs": 1790668800,
+          "showEndTs": 1792439999,
+          "goodId": "GP_Once_491",
+          "giftPackageName": "定向甄选寻访组合包",
+          "price": 168,
+          "logoId": "NORMAL",
+          "color": "ffd130",
+          "haveMark": false,
+          "availCount": 1
+        },
+        "normalSkinParam": null,
+        "normalFurnParam": null,
+        "returnSkinParam": null
+      }
+    },
+    {
+      "tagId": "tag_1162",
+      "displayType": "block_1_4",
+      "tagName": "罗德岛资金箱",
+      "itemTag": "DEADLINE",
+      "orderNum": 2102,
+      "startDatetime": 1790668800,
+      "endDatetime": 1792439999,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag1162_a",
+              "slotIndex": 0,
+              "cmd": "GIFTPACKAGE",
+              "param1": "GP_Once_492",
+              "param2": null,
+              "skinId": ""
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_1162",
+        "text": "这些是特意为博士准备的采购部组合包！快收下吧！虽然说是采购部的组合包，但这也是要动用预算经费的。"
+      },
+      "templateType": "NORGIFT",
+      "templateParam": {
+        "normalGiftParam": {
+          "showStartTs": 1790668800,
+          "showEndTs": 1792439999,
+          "goodId": "GP_Once_492",
+          "giftPackageName": "罗德岛资金箱",
+          "price": 68,
+          "logoId": "NORMAL",
+          "color": "ffd130",
+          "haveMark": false,
+          "availCount": 1
+        },
+        "normalSkinParam": null,
+        "normalFurnParam": null,
+        "returnSkinParam": null
+      }
+    },
+    {
+      "tagId": "tag_1163",
+      "displayType": "block_1_4",
+      "tagName": "技巧集综合礼包",
+      "itemTag": "DEADLINE",
+      "orderNum": 2103,
+      "startDatetime": 1790668800,
+      "endDatetime": 1792439999,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag1163_a",
+              "slotIndex": 0,
+              "cmd": "GIFTPACKAGE",
+              "param1": "GP_Once_493",
+              "param2": null,
+              "skinId": ""
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_1163",
+        "text": "博士，这都是精英干员帮我从泰拉各地收集来的作战秘籍！要变强，就先从一技之长练起吧！"
+      },
+      "templateType": "NORGIFT",
+      "templateParam": {
+        "normalGiftParam": {
+          "showStartTs": 1790668800,
+          "showEndTs": 1792439999,
+          "goodId": "GP_Once_493",
+          "giftPackageName": "技巧集综合礼包",
+          "price": 98,
+          "logoId": "NORMAL",
+          "color": "ffd130",
+          "haveMark": false,
+          "availCount": 1
+        },
+        "normalSkinParam": null,
+        "normalFurnParam": null,
+        "returnSkinParam": null
+      }
+    },
+    {
+      "tagId": "tag_1164",
+      "displayType": "block_1_4",
+      "tagName": "高级特训组合包",
+      "itemTag": "DEADLINE",
+      "orderNum": 2104,
+      "startDatetime": 1790668800,
+      "endDatetime": 1792439999,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag1164_a",
+              "slotIndex": 0,
+              "cmd": "GIFTPACKAGE",
+              "param1": "GP_Once_494",
+              "param2": null,
+              "skinId": ""
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_1164",
+        "text": "这些是特意为博士准备的采购部组合包！快收下吧！虽然说是采购部的组合包，但这也是要动用预算经费的。"
+      },
+      "templateType": "NORGIFT",
+      "templateParam": {
+        "normalGiftParam": {
+          "showStartTs": 1790668800,
+          "showEndTs": 1792439999,
+          "goodId": "GP_Once_494",
+          "giftPackageName": "高级特训组合包",
+          "price": 168,
+          "logoId": "NORMAL",
+          "color": "ffd130",
+          "haveMark": false,
+          "availCount": 1
+        },
+        "normalSkinParam": null,
+        "normalFurnParam": null,
+        "returnSkinParam": null
+      }
+    },
+    {
+      "tagId": "tag_1165",
+      "displayType": "block_1_4",
+      "tagName": "罗德岛数据包",
+      "itemTag": "DEADLINE",
+      "orderNum": 2105,
+      "startDatetime": 1790668800,
+      "endDatetime": 1792439999,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag1165_a",
+              "slotIndex": 0,
+              "cmd": "GIFTPACKAGE",
+              "param1": "GP_Once_495",
+              "param2": null,
+              "skinId": ""
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_1165",
+        "text": "这些是特意为博士准备的采购部组合包！快收下吧！虽然说是采购部的组合包，但这也是要动用预算经费的。"
+      },
+      "templateType": "NORGIFT",
+      "templateParam": {
+        "normalGiftParam": {
+          "showStartTs": 1790668800,
+          "showEndTs": 1792439999,
+          "goodId": "GP_Once_495",
+          "giftPackageName": "罗德岛数据包",
+          "price": 30,
+          "logoId": "NORMAL",
+          "color": "ffd130",
+          "haveMark": false,
+          "availCount": 1
+        },
+        "normalSkinParam": null,
+        "normalFurnParam": null,
+        "returnSkinParam": null
+      }
+    },
+    {
+      "tagId": "tag_1166",
+      "displayType": "block_1_4",
+      "tagName": "罗德岛数据套组",
+      "itemTag": "DEADLINE",
+      "orderNum": 2106,
+      "startDatetime": 1790668800,
+      "endDatetime": 1792439999,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag1166_a",
+              "slotIndex": 0,
+              "cmd": "GIFTPACKAGE",
+              "param1": "GP_Once_496",
+              "param2": null,
+              "skinId": ""
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_1166",
+        "text": "这些是特意为博士准备的采购部组合包！快收下吧！虽然说是采购部的组合包，但这也是要动用预算经费的。"
+      },
+      "templateType": "NORGIFT",
+      "templateParam": {
+        "normalGiftParam": {
+          "showStartTs": 1790668800,
+          "showEndTs": 1792439999,
+          "goodId": "GP_Once_496",
+          "giftPackageName": "罗德岛数据套组",
+          "price": 68,
+          "logoId": "NORMAL",
+          "color": "ffd130",
+          "haveMark": false,
+          "availCount": 1
+        },
+        "normalSkinParam": null,
+        "normalFurnParam": null,
+        "returnSkinParam": null
+      }
+    },
+    {
       "tagId": "tag_1178",
       "displayType": "block_1",
       "tagName": "飘游之粉组合包",
@@ -64352,6 +64634,112 @@
     {
       "items": [
         {
+          "spriteId": "shop_Once_491",
+          "startTime": 1790668800,
+          "endTime": 1792439999,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Once_491",
+          "skinId": "",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_Once_482",
+          "startTime": 1788476400,
+          "endTime": 1790279999,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Once_482",
+          "skinId": "",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_Once_481",
+          "startTime": 1788476400,
+          "endTime": 1790279999,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Once_481",
+          "skinId": "",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_Once_483",
+          "startTime": 1788476400,
+          "endTime": 1790279999,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Once_483",
+          "skinId": "",
+          "furniId": ""
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "spriteId": "shop_Once_492",
+          "startTime": 1790668800,
+          "endTime": 1792439999,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Once_492",
+          "skinId": "",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_Once_486",
+          "startTime": 1788476400,
+          "endTime": 1790279999,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Once_486",
+          "skinId": "",
+          "furniId": ""
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "spriteId": "shop_Once_493",
+          "startTime": 1790668800,
+          "endTime": 1792439999,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Once_493",
+          "skinId": "",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_Once_494",
+          "startTime": 1790668800,
+          "endTime": 1792439999,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Once_494",
+          "skinId": "",
+          "furniId": ""
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "spriteId": "shop_Once_495",
+          "startTime": 1790668800,
+          "endTime": 1792439999,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Once_495",
+          "skinId": "",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_Once_496",
+          "startTime": 1790668800,
+          "endTime": 1792439999,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Once_496",
+          "skinId": "",
+          "furniId": ""
+        }
+      ]
+    },
+    {
+      "items": [
+        {
           "spriteId": "shop_Once_480",
           "startTime": 1788476400,
           "endTime": 1790279999,
@@ -64401,11 +64789,20 @@
           "furniId": ""
         },
         {
-          "spriteId": "shop_Once_486",
-          "startTime": 1788476400,
-          "endTime": 1790279999,
+          "spriteId": "shop_Once_438",
+          "startTime": 1777590000,
+          "endTime": 1924891199,
           "cmd": "GIFTPACKAGE",
-          "param1": "GP_Once_486",
+          "param1": "GP_Once_438",
+          "skinId": "",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_NpOne_nc_7",
+          "startTime": 1777590000,
+          "endTime": 4102415999,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_NpOne_nc_7_NpOne_nc_7_v1",
           "skinId": "",
           "furniId": ""
         }
@@ -64430,6 +64827,33 @@
           "param1": "GP_Once_487",
           "skinId": "",
           "furniId": ""
+        },
+        {
+          "spriteId": "shop_Condition_4",
+          "startTime": 1730433600,
+          "endTime": 1916078399,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Condition_4",
+          "skinId": "",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_Condition_2",
+          "startTime": 1688616000,
+          "endTime": 1916078399,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Condition_2",
+          "skinId": "",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop2",
+          "startTime": 1548727200,
+          "endTime": 1924891199,
+          "cmd": "GIFTPACKAGE",
+          "param1": null,
+          "skinId": "",
+          "furniId": ""
         }
       ]
     },
@@ -64452,6 +64876,15 @@
           "param1": "GP_Once_486",
           "skinId": "",
           "furniId": ""
+        },
+        {
+          "spriteId": "shop_NpOne_nc_7",
+          "startTime": 1777590000,
+          "endTime": 4102415999,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_NpOne_nc_7_NpOne_nc_7_v1",
+          "skinId": "",
+          "furniId": ""
         }
       ]
     },
@@ -64467,29 +64900,38 @@
           "furniId": ""
         },
         {
-          "spriteId": "shop_Condition_5",
-          "startTime": 1773097200,
-          "endTime": 1916078399,
-          "cmd": "GIFTPACKAGE",
-          "param1": "GP_Condition_5",
-          "skinId": "",
-          "furniId": ""
-        },
-        {
-          "spriteId": "shop_Condition_4",
-          "startTime": 1730433600,
-          "endTime": 1916078399,
-          "cmd": "GIFTPACKAGE",
-          "param1": "GP_Condition_4",
-          "skinId": "",
-          "furniId": ""
-        },
-        {
-          "spriteId": "shop_Condition_2",
+          "spriteId": "shop_Once_106",
           "startTime": 1688616000,
+          "endTime": 1924891199,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Once_106",
+          "skinId": "",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_Once_105",
+          "startTime": 1688616000,
+          "endTime": 1722484799,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Once_105",
+          "skinId": "",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop_Once_207",
+          "startTime": 1722484800,
           "endTime": 1916078399,
           "cmd": "GIFTPACKAGE",
-          "param1": "GP_Condition_2",
+          "param1": "GP_Once_207",
+          "skinId": "",
+          "furniId": ""
+        },
+        {
+          "spriteId": "shop2",
+          "startTime": 1548727200,
+          "endTime": 1924891199,
+          "cmd": "GIFTPACKAGE",
+          "param1": null,
           "skinId": "",
           "furniId": ""
         }
@@ -64505,24 +64947,6 @@
           "param1": "dessertShop_2026",
           "skinId": "",
           "furniId": "dessertShop_2026"
-        },
-        {
-          "spriteId": "shop_Once_438",
-          "startTime": 1777590000,
-          "endTime": 1924891199,
-          "cmd": "GIFTPACKAGE",
-          "param1": "GP_Once_438",
-          "skinId": "",
-          "furniId": ""
-        },
-        {
-          "spriteId": "shop_NpOne_nc_7",
-          "startTime": 1777590000,
-          "endTime": 4102415999,
-          "cmd": "GIFTPACKAGE",
-          "param1": "GP_NpOne_nc_7_NpOne_nc_7_v1",
-          "skinId": "",
-          "furniId": ""
         }
       ]
     },
@@ -64561,15 +64985,6 @@
           "endTime": 1916078399,
           "cmd": "GIFTPACKAGE",
           "param1": "GP_Condition_2",
-          "skinId": "",
-          "furniId": ""
-        },
-        {
-          "spriteId": "shop2",
-          "startTime": 1548727200,
-          "endTime": 1924891199,
-          "cmd": "GIFTPACKAGE",
-          "param1": null,
           "skinId": "",
           "furniId": ""
         }
@@ -75137,6 +75552,19 @@
       "sortId": 7,
       "tabStartTime": 1788476400,
       "tabEndTime": 1790279999,
+      "markerPicId": "marker_default"
+    },
+    "Tab_limitTime_75": {
+      "tabId": "Tab_limitTime_75",
+      "tabName": "干员培训",
+      "tabType": "TIMELY",
+      "recomDisplayNum": 0,
+      "tabPicId": "Pic_Tab_limitTime_1",
+      "tabPicOnColor": "45b7ff",
+      "tabPicOffColor": "45b7ff",
+      "sortId": 6,
+      "tabStartTime": 1790668800,
+      "tabEndTime": 1791500399,
       "markerPicId": "marker_default"
     }
   },
