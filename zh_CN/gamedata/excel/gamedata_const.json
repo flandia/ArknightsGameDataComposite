@@ -2093,5 +2093,7 @@
     "defaultReaderLinespace": 10,
     "defaultReaderBackgroundAlpha": 75,
     "defaultNameReaderFontsize": 0
-  }
+  },
+  "friendAddUidLimit": 100,
+  "friendUrlFormat": "https://ak.hypergryph.com/special/friend-funnel/?uid={0}&nickName={1}&nickNum={2}&skinId={3}&skinTmpl={4}&avatarId={5}"
 }
