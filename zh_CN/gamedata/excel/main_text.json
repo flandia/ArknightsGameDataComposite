@@ -11584,6 +11584,11 @@
     "COMMON_FRIEND_QR_SAVE_TOAST": "已保存至相册",
     "COMMON_FRIEND_QR_SENDED": "已发送申请",
     "COMMON_FRIEND_QR_TIP": "扫描二维码，添加我为好友",
-    "COMMON_FRIEND_SEARCH_BAR_TIPS": "可输入用户名或UID"
+    "COMMON_FRIEND_SEARCH_BAR_TIPS": "可输入用户名或UID",
+    "ROGUE_6_DLC1_UI_NODE_CHANGE_CONFIRM": "本次行动目的地将因为<color=#20b4a1>{0}</color>变为<color=#20b4a1>{1}</color>，是否确认前往？",
+    "ROGUE_6_DLC1_UI_RELIC_ADD_EMPLOY_CHAR_TOAST": "{0}作为应急干员加入了队伍",
+    "ROGUE_6_DLC1_UI_RELIC_ADD_EMPLOY_MULTI_CHAR_TOAST": "{0}、{1}等{2}名应急干员加入了队伍",
+    "ROGUE_6_DLC1_UI_RELIC_ADD_EMPLOY_TWO_CHAR_TOAST": "{0}、{1}作为应急干员加入了队伍",
+    "ROGUE_6_DLC1_UI_SHADVR_DIE_BANNER_FORMAT": "探险家负伤后走散了，如果能找到他一定还有救。"
   }
 }
