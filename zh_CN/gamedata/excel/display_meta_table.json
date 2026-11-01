@@ -1551,6 +1551,22 @@
         ]
       },
       {
+        "avatarId": "avatar_special_98",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 87,
+        "avatarIdDesc": "设定集特典\\n“新生”",
+        "avatarItemName": "“新生”",
+        "avatarItemDesc": "花朵枯萎，归于尘土。而现在，新生的种子发出了芽，它祝福过去，承负未来。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "dynAvatarId": null,
+        "avatarDesc": "设定集特典",
+        "isSecret": true,
+        "avatarStartTs": 1793487600,
+        "avatarLimit": false,
+        "limitDatas": null
+      },
+      {
         "avatarId": "avatar_activity_OF",
         "avatarType": "ACTIVITY",
         "avatarIdSort": 1,
@@ -2743,6 +2759,10 @@
       {
         "avatarId": "avatar_activity_HS",
         "avatarType": "ACTIVITY",
+        "avatarDesc": "【怀黍离】记录修复",
+        "isSecret": false,
+        "avatarStartTs": 1769025600,
+        "avatarLimit": false,
         "avatarIdSort": 75,
         "avatarIdDesc": "【怀黍离】记录修复\\n“怀黍离”",
         "avatarItemName": "“怀黍离”",
@@ -2750,10 +2770,6 @@
         "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
         "obtainApproach": "记录修复获得",
         "dynAvatarId": null,
-        "avatarDesc": "【怀黍离】记录修复",
-        "isSecret": false,
-        "avatarStartTs": 1769025600,
-        "avatarLimit": false,
         "limitDatas": null
       },
       {
@@ -3654,7 +3670,8 @@
           "avatar_special_91",
           "avatar_special_95",
           "avatar_special_96",
-          "avatar_special_97"
+          "avatar_special_97",
+          "avatar_special_98"
         ],
         "sortId": 3
       },
@@ -7131,6 +7148,44 @@
             "availEndTime": 1793649599
           }
         }
+      },
+      "nc_babel_1": {
+        "id": "nc_babel_1",
+        "name": "童话的结局",
+        "type": "BASE",
+        "isSecret": true,
+        "sortId": 36,
+        "isSpTheme": false,
+        "defaultShowDetail": true,
+        "themeName": "",
+        "themeEnName": "",
+        "skinStartTime": 1793487600,
+        "skinDesc": "她和他们谱写了一篇童话，你见证了童话的结局……不，你相信那不会是真正的结局。",
+        "usageDesc": "在不变动功能的情况下，对prts进行了重新设计。",
+        "skinApproach": "特典兑换",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "设定集兑换码兑换获得"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_illust",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": "TIER_5",
+        "skinTmplCnt": 1,
+        "canChangeTmpl": false,
+        "isTimeLimit": true,
+        "timeLimitInfoList": {
+          "nc_babel_1": {
+            "limitId": "nc_babel_1",
+            "id": "nc_babel_1",
+            "availStartTime": 1793487600,
+            "availEndTime": 1861732800
+          }
+        }
       }
     },
     "consts": {
@@ -7423,6 +7478,11 @@
             "id": "nc_7d5_1",
             "groupType": "BASE",
             "sortId": 35
+          },
+          {
+            "id": "nc_babel_1",
+            "groupType": "BASE",
+            "sortId": 36
           }
         ]
       }
@@ -11302,6 +11362,14 @@
             "[PACK]Mission/guide_1_1",
             "[PACK]Mission/guide_2_1"
           ]
+        },
+        {
+          "configId": "mission_guide_config_3",
+          "sortId": 3,
+          "pageIdList": [
+            "[PACK]Mission/entry",
+            "[PACK]Mission/guide_1_2"
+          ]
         }
       ]
     }
@@ -12556,7 +12624,8 @@
           }
         ],
         "relatedActTypes": [
-          "AUTOCHESS_SEASON"
+          "AUTOCHESS_SEASON",
+          "ENUM"
         ]
       },
       "arkvent": {
@@ -12643,6 +12712,26 @@
             "canBeSet": true,
             "defaultKeyId": "alphaY",
             "sortId": 2
+          }
+        ]
+      },
+      "globleFunc": {
+        "groupId": "globleFunc",
+        "name": "全局设置",
+        "funcType": "NORMAL",
+        "keyEffectGroup": "ALL",
+        "isHidden": false,
+        "relatedActTypes": [],
+        "gameModeTag": null,
+        "sortId": 7,
+        "startTs": 1793487600,
+        "itemList": [
+          {
+            "funcId": "globleScreenshot",
+            "funcName": "截图",
+            "canBeSet": true,
+            "defaultKeyId": "keyF1",
+            "sortId": 1
           }
         ]
       }
