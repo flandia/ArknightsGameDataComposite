@@ -59,7 +59,7 @@
                 "tauntLevel": 0,
                 "massLevel": 0,
                 "baseForceLevel": 0,
-                "stunImmune": true,
+                "stunImmune": false,
                 "silenceImmune": false,
                 "sleepImmune": false,
                 "frozenImmune": false,
@@ -69,7 +69,8 @@
                 "palsyImmune": false,
                 "attractImmune": false,
                 "teleportImmune": false,
-                "groundBoundImmune": false
+                "groundBoundImmune": false,
+                "blockVolume": -1
               }
             },
             {
@@ -92,7 +93,7 @@
                 "tauntLevel": 0,
                 "massLevel": 0,
                 "baseForceLevel": 0,
-                "stunImmune": true,
+                "stunImmune": false,
                 "silenceImmune": false,
                 "sleepImmune": false,
                 "frozenImmune": false,
@@ -102,7 +103,8 @@
                 "palsyImmune": false,
                 "attractImmune": false,
                 "teleportImmune": false,
-                "groundBoundImmune": false
+                "groundBoundImmune": false,
+                "blockVolume": -1
               }
             }
           ],
@@ -133,7 +135,7 @@
                 "tauntLevel": 0,
                 "massLevel": 0,
                 "baseForceLevel": 0,
-                "stunImmune": true,
+                "stunImmune": false,
                 "silenceImmune": false,
                 "sleepImmune": false,
                 "frozenImmune": false,
@@ -143,7 +145,8 @@
                 "palsyImmune": false,
                 "attractImmune": false,
                 "teleportImmune": false,
-                "groundBoundImmune": false
+                "groundBoundImmune": false,
+                "blockVolume": -1
               }
             },
             {
@@ -166,7 +169,7 @@
                 "tauntLevel": 0,
                 "massLevel": 0,
                 "baseForceLevel": 0,
-                "stunImmune": true,
+                "stunImmune": false,
                 "silenceImmune": false,
                 "sleepImmune": false,
                 "frozenImmune": false,
@@ -176,7 +179,8 @@
                 "palsyImmune": false,
                 "attractImmune": false,
                 "teleportImmune": false,
-                "groundBoundImmune": false
+                "groundBoundImmune": false,
+                "blockVolume": -1
               }
             }
           ],
@@ -223,7 +227,7 @@
                 "tauntLevel": 0,
                 "massLevel": 0,
                 "baseForceLevel": 0,
-                "stunImmune": true,
+                "stunImmune": false,
                 "silenceImmune": false,
                 "sleepImmune": false,
                 "frozenImmune": false,
@@ -233,7 +237,8 @@
                 "palsyImmune": false,
                 "attractImmune": false,
                 "teleportImmune": false,
-                "groundBoundImmune": false
+                "groundBoundImmune": false,
+                "blockVolume": -1
               }
             },
             {
@@ -256,7 +261,7 @@
                 "tauntLevel": 0,
                 "massLevel": 0,
                 "baseForceLevel": 0,
-                "stunImmune": true,
+                "stunImmune": false,
                 "silenceImmune": false,
                 "sleepImmune": false,
                 "frozenImmune": false,
@@ -266,7 +271,8 @@
                 "palsyImmune": false,
                 "attractImmune": false,
                 "teleportImmune": false,
-                "groundBoundImmune": false
+                "groundBoundImmune": false,
+                "blockVolume": -1
               }
             }
           ],
@@ -651,7 +657,7 @@
             "tauntLevel": 0,
             "massLevel": 0,
             "baseForceLevel": 0,
-            "stunImmune": true,
+            "stunImmune": false,
             "silenceImmune": false,
             "sleepImmune": false,
             "frozenImmune": false,
@@ -661,7 +667,8 @@
             "palsyImmune": false,
             "attractImmune": false,
             "teleportImmune": false,
-            "groundBoundImmune": false
+            "groundBoundImmune": false,
+            "blockVolume": -1
           }
         },
         {
@@ -684,7 +691,7 @@
             "tauntLevel": 0,
             "massLevel": 0,
             "baseForceLevel": 0,
-            "stunImmune": true,
+            "stunImmune": false,
             "silenceImmune": false,
             "sleepImmune": false,
             "frozenImmune": false,
@@ -694,7 +701,8 @@
             "palsyImmune": false,
             "attractImmune": false,
             "teleportImmune": false,
-            "groundBoundImmune": false
+            "groundBoundImmune": false,
+            "blockVolume": -1
           }
         }
       ],
@@ -912,7 +920,7 @@
                 "tauntLevel": 0,
                 "massLevel": 0,
                 "baseForceLevel": 0,
-                "stunImmune": true,
+                "stunImmune": false,
                 "silenceImmune": false,
                 "sleepImmune": false,
                 "frozenImmune": false,
@@ -922,7 +930,8 @@
                 "palsyImmune": false,
                 "attractImmune": false,
                 "teleportImmune": false,
-                "groundBoundImmune": false
+                "groundBoundImmune": false,
+                "blockVolume": -1
               }
             },
             {
@@ -945,7 +954,7 @@
                 "tauntLevel": 0,
                 "massLevel": 0,
                 "baseForceLevel": 0,
-                "stunImmune": true,
+                "stunImmune": false,
                 "silenceImmune": false,
                 "sleepImmune": false,
                 "frozenImmune": false,
@@ -955,7 +964,8 @@
                 "palsyImmune": false,
                 "attractImmune": false,
                 "teleportImmune": false,
-                "groundBoundImmune": false
+                "groundBoundImmune": false,
+                "blockVolume": -1
               }
             }
           ],
@@ -986,7 +996,7 @@
                 "tauntLevel": 0,
                 "massLevel": 0,
                 "baseForceLevel": 0,
-                "stunImmune": true,
+                "stunImmune": false,
                 "silenceImmune": false,
                 "sleepImmune": false,
                 "frozenImmune": false,
@@ -996,7 +1006,8 @@
                 "palsyImmune": false,
                 "attractImmune": false,
                 "teleportImmune": false,
-                "groundBoundImmune": false
+                "groundBoundImmune": false,
+                "blockVolume": -1
               }
             },
             {
@@ -1019,7 +1030,7 @@
                 "tauntLevel": 0,
                 "massLevel": 0,
                 "baseForceLevel": 0,
-                "stunImmune": true,
+                "stunImmune": false,
                 "silenceImmune": false,
                 "sleepImmune": false,
                 "frozenImmune": false,
@@ -1029,7 +1040,8 @@
                 "palsyImmune": false,
                 "attractImmune": false,
                 "teleportImmune": false,
-                "groundBoundImmune": false
+                "groundBoundImmune": false,
+                "blockVolume": -1
               }
             }
           ],
@@ -1076,7 +1088,7 @@
                 "tauntLevel": 0,
                 "massLevel": 0,
                 "baseForceLevel": 0,
-                "stunImmune": true,
+                "stunImmune": false,
                 "silenceImmune": false,
                 "sleepImmune": false,
                 "frozenImmune": false,
@@ -1086,7 +1098,8 @@
                 "palsyImmune": false,
                 "attractImmune": false,
                 "teleportImmune": false,
-                "groundBoundImmune": false
+                "groundBoundImmune": false,
+                "blockVolume": -1
               }
             },
             {
@@ -1109,7 +1122,7 @@
                 "tauntLevel": 0,
                 "massLevel": 0,
                 "baseForceLevel": 0,
-                "stunImmune": true,
+                "stunImmune": false,
                 "silenceImmune": false,
                 "sleepImmune": false,
                 "frozenImmune": false,
@@ -1119,7 +1132,8 @@
                 "palsyImmune": false,
                 "attractImmune": false,
                 "teleportImmune": false,
-                "groundBoundImmune": false
+                "groundBoundImmune": false,
+                "blockVolume": -1
               }
             }
           ],
@@ -1505,7 +1519,7 @@
             "tauntLevel": 0,
             "massLevel": 0,
             "baseForceLevel": 0,
-            "stunImmune": true,
+            "stunImmune": false,
             "silenceImmune": false,
             "sleepImmune": false,
             "frozenImmune": false,
@@ -1515,7 +1529,8 @@
             "palsyImmune": false,
             "attractImmune": false,
             "teleportImmune": false,
-            "groundBoundImmune": false
+            "groundBoundImmune": false,
+            "blockVolume": -1
           }
         },
         {
@@ -1538,7 +1553,7 @@
             "tauntLevel": 0,
             "massLevel": 0,
             "baseForceLevel": 0,
-            "stunImmune": true,
+            "stunImmune": false,
             "silenceImmune": false,
             "sleepImmune": false,
             "frozenImmune": false,
@@ -1548,7 +1563,8 @@
             "palsyImmune": false,
             "attractImmune": false,
             "teleportImmune": false,
-            "groundBoundImmune": false
+            "groundBoundImmune": false,
+            "blockVolume": -1
           }
         }
       ],

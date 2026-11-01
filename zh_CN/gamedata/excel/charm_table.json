@@ -41,7 +41,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -96,7 +97,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -161,7 +163,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -226,7 +229,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -291,7 +295,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -356,7 +361,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -421,7 +427,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -486,7 +493,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -551,7 +559,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -616,7 +625,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -681,7 +691,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -746,7 +757,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -811,7 +823,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -876,7 +889,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -941,7 +955,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -1006,7 +1021,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -1071,7 +1087,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -1136,7 +1153,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -1191,7 +1209,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -1246,7 +1265,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -1301,7 +1321,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -1356,7 +1377,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -1411,7 +1433,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -1466,7 +1489,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -1521,7 +1545,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -1576,7 +1601,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -1631,7 +1657,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -1686,7 +1713,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -1741,7 +1769,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -1796,7 +1825,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -1851,7 +1881,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -1906,7 +1937,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -1961,7 +1993,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -2016,7 +2049,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -2076,7 +2110,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -2136,7 +2171,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -2196,7 +2232,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -2251,7 +2288,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -2306,7 +2344,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -2361,7 +2400,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -2416,7 +2456,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -2471,7 +2512,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -2526,7 +2568,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -2581,7 +2624,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": [
               {
@@ -2640,7 +2684,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": []
           }
@@ -2693,7 +2738,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": []
           }
@@ -2746,7 +2792,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": []
           }
@@ -2795,7 +2842,8 @@
               "enemyActionHiddenGroupFilter": null,
               "sideType": "ALL",
               "heightTypeMask": "ALL",
-              "charIdExcludeFilter": null
+              "charIdExcludeFilter": null,
+              "mapLayerMask": "ALL"
             },
             "blackboard": []
           }

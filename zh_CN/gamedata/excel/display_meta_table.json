@@ -12625,7 +12625,7 @@
         ],
         "relatedActTypes": [
           "AUTOCHESS_SEASON",
-          "ENUM"
+          "AUTOCHESS"
         ]
       },
       "arkvent": {
