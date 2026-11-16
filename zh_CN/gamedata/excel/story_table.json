@@ -55147,7 +55147,7 @@
     "videoResource": true,
     "trigger": {
       "type": "ACTIVITY_LOADED",
-      "key": "act46side",
+      "key": "act46sre",
       "useRegex": false
     },
     "condition": {
